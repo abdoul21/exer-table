@@ -1,0 +1,15 @@
+td{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+    height: 600px;
+    width: 1200px;
+    text-align: center;
+}
+
+
+.uno{
+    border-left: none;
+    border-top: none;
+}
